@@ -1,7 +1,7 @@
 import express =  require("express");
 import {Calculadora} from "./calculadora";
 
-const PORT = process.env.Port || 3000;
+const PORT = process.env.PORT || 3000;
 
 
 let main = () =>
